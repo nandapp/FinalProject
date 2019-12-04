@@ -1,0 +1,5 @@
+1. Provide database with same field as csv database file
+2. Open tab import on your database
+3. Browse your csv database file
+4. Change format to CSV USING LOAD DATA
+5. Then press GO

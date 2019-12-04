@@ -1,0 +1,9 @@
+Step by step simulasi
+
+1. open retrieve_timeline (t_cb).py
+2. check tweet2pure database db(ta_bmkg)
+3. add 7 hour to date_time field
+4. add 1 hour datetime_comp field
+5. open on_time.py
+6. open relevan&complete.py
+7. Result: relevance (100%), On Time (742), Completed Information (893)
